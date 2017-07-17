@@ -7,7 +7,7 @@ echo " "
 echo " "
 echo "Let's begin installing all dependencies we need to compile the cpuminer."
 
-sudo apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++
+sudo apt-get install -y automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++
 echo " "
 echo " "
 chmod +x build-linux.sh
