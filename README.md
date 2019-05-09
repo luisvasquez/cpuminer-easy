@@ -1,6 +1,6 @@
 This software has been developped by Luis Vasquez from a fork of [cpuminer-opt](//github.com/JayDDee/cpuminer-opt).
 
-Whit credits to Jay D Dee's, TPruvot, Lucas Jones, elmad, palmd, djm34, pooler, ig0tik3d, Wolf0, Jeff Garzik and Optiminer.
+With credits to Jay D Dee's, TPruvot, Lucas Jones, elmad, palmd, djm34, pooler, ig0tik3d, Wolf0, Jeff Garzik and Optiminer.
 
 All of the code is believed to be open and free.
 
